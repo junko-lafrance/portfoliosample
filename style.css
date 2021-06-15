@@ -17,7 +17,6 @@ body{
 }
 
 
-
 /*
 *[header]のスタイルシート
 */
@@ -87,10 +86,18 @@ body{
     margin-right: 0;
 }
 
+/*
+*顔写真のサイズ調整
+*/
+
 .image-size{
     width: 120px;
     height: auto;
 }
+
+/*
+*アイコンサイズ調整
+*/
 
 .icon-size{
     width: 50px;
